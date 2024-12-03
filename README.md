@@ -1,7 +1,7 @@
 ## Hello, my name is Viktor!
 
 - I graduated from Faculty of Science in Zagreb; field Mathematics education
-- I worked for 5 years in IT business; mathematics, data analytics, with occasional process automating Apps script coding to help myself (and others, of course 😉)
+- I worked for 5 years in IT business; mathematics, data analytics, with occasional process automating JavaScript(Apps script) coding to help myself (and others, of course 😉)
 - I was formally educated in C and SQL language
 - I learned Python few years ago, eavesdropping on my girlfriend's Python developer course 😄
 - I finished a course for SQL administration
