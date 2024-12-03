@@ -6,7 +6,7 @@
 - I learned Python few years ago, eavesdropping on my girlfriend's Python developer course 😄
 - I finished a course for SQL administration
 
-**Fun fact 🐱:** As I care for over 40 abandoned cats, I created a mini app using AppSheet to track their general info, vet appointments and bills
+**Fun fact 🐱:** As I care for a *great* number of abandoned cats, I created a mini app using AppSheet to track their general info, vet appointments and bills
 
 As I constantly keep coming back to some sort of programming, I've decided it's time for me to start contributing to
 real life problems and find a job in software development. I'm looking forward to meeting my new team, learning and making a difference!
