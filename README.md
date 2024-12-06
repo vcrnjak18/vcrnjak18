@@ -5,6 +5,7 @@
 - I was formally educated in C and SQL language
 - I learned Python few years ago, eavesdropping on my girlfriend's Python developer course 😄
 - I finished a course for SQL administration
+- Learned some JS (Apps Script) while writing Excel automation scripts
 
 **Fun fact 🐱:** As I care for a *great* number of abandoned cats, I created a mini app using AppSheet to track their general info, vet appointments and bills
 
